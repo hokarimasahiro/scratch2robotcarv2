@@ -1,0 +1,22 @@
+{
+    "name": "scratch2RobotCarV2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "pxt-scratch-microbit-more": "github:yokobond/pxt-scratch-microbit-more#v0.4.2",
+        "pxt-carcntrol": "github:hokarimasahiro/pxt-carcontrol#master",
+        "pxt-logic": "github:hokarimasahiro/pxt-logic#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
